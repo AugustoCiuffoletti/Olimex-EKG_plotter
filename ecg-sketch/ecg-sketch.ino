@@ -31,7 +31,7 @@
 //http://www.arduino.cc/playground/Main/FlexiTimer2
 #include <FlexiTimer2.h>
 
-#define SAMPFREQ 200                // Samplig frequency (in Hz)
+#define SAMPFREQ 250                // Samplig frequency (in Hz)
 #define TIMER2VAL (1000/(SAMPFREQ)) // Sampling period (in msecs)
 #define BAUDRATE 115200             // Baudrate on the serial line
 #define BUFLEN 80                   // Record length
