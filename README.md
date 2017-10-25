@@ -1,9 +1,9 @@
-# Olimex-EKG-EMG plotter
+# A Linux plotter fo the Olimex EKG-EMG shield
 A plotter for the Olimex-EKG-EMG using Python and GnuPlot on Ubuntu
 
 ## Why this project
 
-The Olimex-EKG shield is an open source board for the acquisition of the electrical signals produced by our body. It can be effectively used to measure the cardiac activity. Its price is affordable (around 50$), and can be useful for didactical activities and support to medical activity. It cannot replace a professional device.
+The Olimex-EKG shield is an open source board for the acquisition of the electrical signals produced by our body. It can be effectively used to obtain a 3-leads non-diagnostic EKG. Its price is affordable (around 30$), and can be useful for didactical activities and support to medical activity.
 
 It is mounted as an Arduino shield, the latter used to convert the analog signals from the board into digital signals, and possibly to analyze the data before delivering it to other digital devices.
 
